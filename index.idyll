@@ -1,0 +1,53 @@
+[meta title:"Resume" description:"Short description of your project" /]
+
+[Header
+  fullWidth:true
+  title:"Curriculum Vitae"
+  subtitle:"Welcome to my CV"
+  author:"Michael Tang-Tran"
+  authorLink:"https://idyll-lang.org"
+  date:"May 4, 2023"
+  background:"#222222"
+  color:"#ffffff"
+   /]
+
+[var name:"x" value:0 /]
+
+# Introduction
+
+Hello! My name is Michael Tang-Tran. I am an aspiring professional hoping to break into tech. 
+I have experience working in fast-paced environments to help customers and colleagues to reach their goals.
+During COVID, I had to take a career break to take care of personal and family issues. 
+
+# Education
+
+University of Western Ontario
+Bachelor of Science, Double Major in Applied Statistics and Computer Science. 
+
+# Work Experience
+
+### Math Tutor, Kumon Learning
+[p]Created personalized learning plans for students.[/p]
+[p]Helped create one of London's preferred Kumon centers.[/p]
+[p]Grew the math program from a few students to a few dozen students [/p]
+[p]Managed and led the math program for fellow colleagues and managers.[/p]
+
+### Sorting Associate, Amazon Delivery Station 
+[p] Achieved one of the highest stowing rates on the site.[/p]
+[p] Created, implemented and presented a new safety practice plan place. [/p]
+
+# Projects
+
+### Mental Health Therapy Application
+[p]A CS4471 group project that was an Android application that could store the user's moods, medications, and notes for their therapy applications.[/p]
+
+
+### eWallet
+[p]Personalized wallet that tracks how many accounts based on what the user provided[/p]
+
+### SubscriptionManager
+[p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users.[/p]
+# Learn More
+[p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com.[/p]
+[hr /]
+
