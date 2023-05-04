@@ -5,13 +5,27 @@
   title:"Curriculum Vitae"
   subtitle:"Welcome to my CV"
   author:"Michael Tang-Tran"
-  authorLink:"https://idyll-lang.org"
+  authorLink:"https://github.com/mtangtran"
   date:"May 4, 2023"
   background:"#222222"
   color:"#ffffff"
    /]
 
 [var name:"x" value:0 /]
+
+
+[Aside]
+[Fixed]
+Table of Contents
+[ol]
+  [li] [Introduction](#introduction) [/li]
+  [li] [Education](#education)[/li]
+  [li] [Work Experience](#work-experience)[/li]
+  [li] [Projects](#projects)[/li]
+  [li] [Learn More](#learn-More)[/li]
+[/ol]
+[/Fixed]
+[/Aside]
 
 # Introduction
 
