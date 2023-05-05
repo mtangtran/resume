@@ -3,10 +3,10 @@
 [Header
   fullWidth:true
   title:"Curriculum Vitae"
-  subtitle:"Welcome to my CV"
+  subtitle:"Welcome to my CV and Project Page."
   author:"Michael Tang-Tran"
   authorLink:"https://github.com/mtangtran"
-  date:"May 4, 2023"
+  date:`(new Date()).toDateString()`
   background:"#222222"
   color:"#ffffff"
    /]
@@ -16,12 +16,13 @@
 
 [Aside]
 [Fixed]
-Table of Contents
+# Table of Contents
 [ol]
   [li] [Introduction](#introduction) [/li]
   [li] [Education](#education)[/li]
   [li] [Work Experience](#work-experience)[/li]
   [li] [Projects](#projects)[/li]
+  [li] [Programming Languages](#Languages)[/li]
   [li] [Learn More](#learn-More)[/li]
 [/ol]
 [/Fixed]
@@ -37,7 +38,7 @@ During COVID, I had to take a career break to take care of personal and family i
 
 University of Western Ontario
 Bachelor of Science, Double Major in Applied Statistics and Computer Science. 
-
+ ![UWO](./static/images/uwo-logo.png)
 # Work Experience
 
 ### Math Tutor, Kumon Learning
@@ -63,6 +64,11 @@ Bachelor of Science, Double Major in Applied Statistics and Computer Science.
 
 ### SubscriptionManager
 [p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users.[/p]
+
+# Languages
+[p] Python, Java, and Javascript[/p]
+
+
 # Learn More
 [p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com.[/p]
 [hr /]
