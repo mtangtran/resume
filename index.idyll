@@ -3,7 +3,7 @@
 [Header
   fullWidth:true
   title:"Curriculum Vitae"
-  subtitle:"Welcome to my CV and Project Page."
+  subtitle:"Welcome to my project and cv page!"
   author:"Michael Tang-Tran"
   authorLink:"https://github.com/mtangtran"
   date:`(new Date()).toDateString()`
@@ -39,6 +39,7 @@ During COVID, I had to take a career break to take care of personal and family i
 University of Western Ontario
 Bachelor of Science, Double Major in Applied Statistics and Computer Science. 
  ![UWO](./static/images/uwo-logo.png)
+
 # Work Experience
 
 ### Math Tutor, Kumon Learning
@@ -50,26 +51,27 @@ Bachelor of Science, Double Major in Applied Statistics and Computer Science.
 ### Sorting Associate, Amazon Delivery Station 
 [p] Achieved one of the highest stowing rates on the site.[/p]
 [p] Created, implemented and presented a new safety practice plan place. [/p]
+[p] Helped resolve colleague and distributer disputes to ensure safe, efficient work places. [/p]
 
 # Projects
 
 ### CS4474 HCI Project - Data Structure Visualization
-[p]During my cs4474 group project, I helped create a website that incorporated HCI principles into a website that lets users learn data structures. We received a bonus reward marks for one of the class's best projects. [/p]
+[p]During my cs4474 group project, I helped create a website that incorporated HCI principles into a website that lets users learn data structures. We received a bonus reward marks for one of the class's best projects. We deployed the project on github pages and publicly. We created the website in Javascript and ReactJs. [/p]
 
 ### Mental Health Therapy Application
-[p]A CS4471 group project that was an Android application that could store the user's moods, medications, and notes for their therapy applications.[/p]
+[p]A CS4471 group project that was an Android application that could store the user's moods, medications, and notes for their therapy applications. We developed everything in Java.[/p]
 
 ### eWallet
-[p]Personalized wallet that tracks how many accounts based on what the user provided[/p]
+[p]Personalized wallet that tracks how many accounts based on what the user provided.[/p]
 
 ### SubscriptionManager
-[p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users.[/p]
+[p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users. Created a java console application to try and contain this logic.[/p]
 
 # Languages
 [p] Python, Java, and Javascript[/p]
 
 
 # Learn More
-[p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com.[/p]
+[p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com. I have also attached my resume according to my link: https://drive.google.com/file/d/1APWruQEVHb5x2Suq48-kbDXgaceD-7d7/view?usp=sharing[/p]
 [hr /]
 
