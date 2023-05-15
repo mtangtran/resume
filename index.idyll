@@ -15,24 +15,24 @@
 
 
 [Aside]
-[Fixed]
+
 # Table of Contents
 [ol]
   [li] [Introduction](#introduction) [/li]
   [li] [Education](#education)[/li]
-  [li] [Work Experience](#work-experience)[/li]
   [li] [Projects](#projects)[/li]
-  [li] [Programming Languages](#Languages)[/li]
-  [li] [Learn More](#learn-More)[/li]
+  [li] [Languages](#languages)[/li]
+  [li] [Work Experience](#work-experience)[/li]
+  [li] [Learn More](#learn-more)[/li]
 [/ol]
-[/Fixed]
+
 [/Aside]
 
 # Introduction
 
 Hello! My name is Michael Tang-Tran. I am an aspiring professional hoping to break into tech. 
 I have experience working in fast-paced environments to help customers and colleagues to reach their goals.
-During COVID, I had to take a career break to take care of personal and family issues. 
+During COVID, I had to take a career break to take care of personal and family issues. I went back to school but it became apparent that I needed more work experience to make an actual difference.
 
 # Education
 
@@ -40,7 +40,30 @@ University of Western Ontario
 Bachelor of Science, Double Major in Applied Statistics and Computer Science. 
  ![UWO](./static/images/uwo-logo.png)
 
+# Projects
+
+### CS4474 HCI Project - Data Structure Visualization
+[p]During my cs4474 group project, I helped create a website that incorporated HCI principles into a website that lets users learn data structures. We received a bonus reward marks for one of the class's best projects. We deployed the project on github pages and publicly. We created the website in Javascript and ReactJs. This is the final product: https://cs-4474-final-project.vercel.app/ and our interactive research article results: https://mtangtran.github.io/group9research/.[/p]
+
+### Mental Health Therapy Application
+[p]A CS4471 group project that was an Android application that could store the user's moods, medications, and notes for their therapy applications. We developed the application in Java with SQLite for internal storage data locally.[/p]
+
+### eWallet
+[p]Personalized wallet that tracks how many accounts based on what the user provided.[/p]
+
+### SubscriptionManager
+[p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users. Created a java console application to try and contain this logic.[/p]
+
+# Languages
+[p] Python, Java and Javascript.[/p]
+[p] Technologies I learned recently are: gRPC, React, Idyll and JUnit.[/p]
+
 # Work Experience
+
+### Elections Ontario Tabulator Deputy Returning Officer, May 2022 to June 2022
+[p]Processed, supervised, and secured over five hundred personalized votes for Election Day.[/p]
+[p]	Collaboration with colleagues to create an efficient and supportive election poll station for voters. [/p]
+
 
 ### Math Tutor, Kumon Learning
 [p]Created personalized learning plans for students.[/p]
@@ -53,26 +76,7 @@ Bachelor of Science, Double Major in Applied Statistics and Computer Science.
 [p] Created, implemented and presented a new safety practice plan place. [/p]
 [p] Helped resolve colleague and distributer disputes to ensure safe, efficient work places. [/p]
 [p] Organized and sorted products in a fast-paced organized environment. [/p]
-# Projects
-
-### CS4474 HCI Project - Data Structure Visualization
-[p]During my cs4474 group project, I helped create a website that incorporated HCI principles into a website that lets users learn data structures. We received a bonus reward marks for one of the class's best projects. We deployed the project on github pages and publicly. We created the website in Javascript and ReactJs. [/p]
-
-### Mental Health Therapy Application
-[p]A CS4471 group project that was an Android application that could store the user's moods, medications, and notes for their therapy applications. We developed everything in Java.[/p]
-
-### eWallet
-[p]Personalized wallet that tracks how many accounts based on what the user provided.[/p]
-
-### SubscriptionManager
-[p]Allowed users to track of how many subscriptions that they have, the respective costs, and associated users. Created a java console application to try and contain this logic.[/p]
-
-# Languages
-[p] Python, Java and Javascript.[/p]
-[p] Technologies I learned recently are: gRPC, React, Idyll and JUnit.[/p]
-
-
 # Learn More
-[p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com. I have also attached my resume according to my link: https://drive.google.com/file/d/1APWruQEVHb5x2Suq48-kbDXgaceD-7d7/view?usp=sharing.[/p]
+[p]If you wish to contact me, please feel free to reach at: michaeltangtran@gmail.com. I have also attached my resume according to my resume here: [link text:"the text" url:"https://drive.google.com/file/d/1APWruQEVHb5x2Suq48-kbDXgaceD-7d7/view?usp=sharing" /] .[/p]
 [hr /]
 
